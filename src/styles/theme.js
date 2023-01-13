@@ -1,0 +1,24 @@
+export default {
+	COLORS: {
+		BACKGROUND_600: '#312E38',
+		BACKGROUND_700: '#262529',
+		BACKGROUND_800: '#1C1B1E',
+
+		PINK: '#FF859B',
+
+		WHITE: '#F4EDE8',
+		WHITE_100: '#E5E5E5',
+		WHITE_200: '#CAC4CF',
+
+		GRAY_300: '#948F99',
+		GRAY_400: '#999591',
+		GRAY_500: '#3E3B47',
+
+		BLACK_900: '#1C1B1E',
+		BLACK_1000: '#0D0C0F'
+	}
+};
+
+/**
+ ${({ theme }) => theme.COLORS.PINK}
+ */
